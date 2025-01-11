@@ -1,4 +1,4 @@
-## Gmail Auto-Archiver
+## Roth Email
 
 Automatically process and archive emails based on custom rules using GPT.
 
